@@ -158,7 +158,7 @@ async function sendMessage() {
       headers: {
         "Content-Type": "application/json",
         // Replace YOUR_API_KEY_HERE with your actual OpenAI API key.
-        "Authorization": "Bearer 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"
+        "Authorization": "Bearer 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"
       },
       body: JSON.stringify({
         model: "gpt-4o-mini",
